@@ -11,7 +11,7 @@
 - Objective Solutions (Curitiba / PR) (?)
 - Via Varejo (São Caetano do Sul / SP) (Assess)
 
-### Legenda
+#### Legenda
 
 Tentando fazer um paralelo com o Tech Radar da ThoughtWorks, dividimos o uso do Kotlin no backend em 3:
 
