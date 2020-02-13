@@ -18,7 +18,7 @@
 - Objective Solutions (?)
 
 #### Ponta Grossa / PR
-- e-Precise (?)
+- e-Precise (Adopt)
 
 #### Fortaleza / CE
 - GreenMile (Adopt)
