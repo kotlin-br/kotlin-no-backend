@@ -1,15 +1,27 @@
 # Kotlin no Back
 
-### Brasil
-- AME Digital (São Paulo / SP)  (Adopt)
-- C6 Bank (São Paulo / SP) (Adopt)
-- Creditas (São Paulo / SP) (Adopt)
-- Contabilizei (Curitiba / PR) (Adopt)
-- e-Precise (Ponta Grossa / PR) (?)
-- GreenMile (Fortaleza / CE) (Adopt)
-- iFood (Campinas / SP)  (Adopt)
-- Objective Solutions (Curitiba / PR) (?)
-- Via Varejo (São Caetano do Sul / SP) (Assess)
+## Brasil
+
+#### São Paulo / SP
+- AME Digital (Adopt)
+- C6 Bank (Adopt)
+- Creditas (Adopt)
+
+#### Campinas / SP
+- iFood (Adopt)
+
+#### São Caetano do Sul / SP
+- Via Varejo (Assess)
+
+#### Curitiba / PR
+- Contabilizei (Adopt)
+- Objective Solutions (?)
+
+#### Ponta Grossa / PR
+- e-Precise (?)
+
+#### Fortaleza / CE
+- GreenMile (Adopt)
 
 #### Legenda
 
