@@ -15,7 +15,7 @@
 
 #### Curitiba / PR
 - Contabilizei (Adopt)
-- Objective Solutions (?)
+- Objective Solutions (Assess)
 
 #### Ponta Grossa / PR
 - e-Precise (Adopt)
