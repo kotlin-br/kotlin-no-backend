@@ -20,6 +20,9 @@
 #### Ponta Grossa / PR
 - e-Precise (Adopt)
 
+#### Londrina / PR
+- X-Brain Desenvolvimento de Sistemas (Adopt)
+
 #### Fortaleza / CE
 - GreenMile (Adopt)
 
