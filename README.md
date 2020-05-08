@@ -6,6 +6,7 @@
 - AME Digital (Adopt)
 - C6 Bank (Adopt)
 - Creditas (Adopt)
+- Orbia (Adopt)
 
 #### Campinas / SP
 - iFood (Adopt)
