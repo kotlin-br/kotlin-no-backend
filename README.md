@@ -7,6 +7,7 @@
 - C6 Bank (Adopt)
 - Creditas (Adopt)
 - Orbia (Adopt)
+- PayGo (Trial)
 
 #### Campinas / SP
 - iFood (Adopt)
