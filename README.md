@@ -31,6 +31,10 @@
 #### Recife / PE
 - Justa Pagamentos (Adopt)
 
+#### Salvador / BA
+- Tribunal de Justiça da Bahia (Assess)
+- Solutis (Trial)
+
 #### Legenda
 
 Tentando fazer um paralelo com o Tech Radar da ThoughtWorks, dividimos o uso do Kotlin no backend em 3:
