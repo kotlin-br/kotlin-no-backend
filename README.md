@@ -26,6 +26,9 @@
 #### Fortaleza / CE
 - GreenMile (Adopt)
 
+#### Recife / PE
+- Justa Pagamentos (Adopt)
+
 #### Legenda
 
 Tentando fazer um paralelo com o Tech Radar da ThoughtWorks, dividimos o uso do Kotlin no backend em 3:
