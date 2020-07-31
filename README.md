@@ -8,6 +8,7 @@
 - Creditas (Adopt)
 - Orbia (Adopt)
 - PayGo (Trial)
+- Beleza na Web (Adopt)
 
 #### Campinas / SP
 - iFood (Adopt)
