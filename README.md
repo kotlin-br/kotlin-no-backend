@@ -36,6 +36,9 @@
 - Tribunal de Justiça da Bahia (Assess)
 - Solutis (Trial)
 
+#### Rio de Janeiro / RJ
+- Riocard Tecnologia da Informação (Adopt)
+
 #### Legenda
 
 Tentando fazer um paralelo com o Tech Radar da ThoughtWorks, dividimos o uso do Kotlin no backend em 3:
