@@ -9,6 +9,7 @@
 - Orbia (Adopt)
 - PayGo (Trial)
 - Beleza na Web (Adopt)
+- Mercado Livre (Trial)
 
 #### Campinas / SP
 - iFood (Adopt)
