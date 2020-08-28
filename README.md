@@ -38,6 +38,8 @@
 
 #### Rio de Janeiro / RJ
 - Riocard Tecnologia da Informação (Adopt)
+- Zoop (Adopt)
+- M4U (Adopt)
 
 #### Legenda
 
