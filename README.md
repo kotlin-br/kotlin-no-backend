@@ -4,6 +4,8 @@
 
 # Kotlin no Back
 
+Aqui você vai encontrar as empresas que estão utilizando [Kotlin](https://kotlinlang.org/) para desenvolver suas aplicações backend.
+
 ## Brasil
 
 #### São Paulo / SP
