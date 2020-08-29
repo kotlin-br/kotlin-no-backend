@@ -44,9 +44,9 @@ Aqui você vai encontrar as empresas que estão utilizando [Kotlin](https://kotl
 - [Solutis](https://solutis.gupy.io/) - 🛠
 
 #### Rio de Janeiro / RJ
+- M4U (Adopt)
 - [Riocard Tecnologia da Informação](https://www.cartaoriocard.com.br/rcc/institucional) - 🚀 
 - Zoop (Adopt)
-- M4U (Adopt)
 
 ## Legenda
 
