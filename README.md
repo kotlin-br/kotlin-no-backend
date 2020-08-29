@@ -45,6 +45,8 @@ Aqui você vai encontrar as empresas que estão utilizando [Kotlin](https://kotl
 
 #### Rio de Janeiro / RJ
 - [Riocard Tecnologia da Informação](https://www.cartaoriocard.com.br/rcc/institucional) - 🚀 
+- Zoop (Adopt)
+- M4U (Adopt)
 
 ## Legenda
 
