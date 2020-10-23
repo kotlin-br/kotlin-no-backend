@@ -11,6 +11,7 @@ Aqui você vai encontrar as empresas que estão utilizando [Kotlin](https://kotl
 #### São Paulo / SP
 - [AME Digital](https://boards.greenhouse.io/amedigital) - 🚀 
 - [C6 Bank](https://c6bank.gupy.io/) - 🚀 
+- [BTG Pactual Digital](https://www.btgpactualdigital.com/) - 🚀 
 - [Creditas](https://boards.greenhouse.io/creditas/) - 🚀 
 - [Orbia](https://orbia.abler.com.br/) - 🚀 
 - [PayGo](https://paygo.gupy.io/) - 🛠
