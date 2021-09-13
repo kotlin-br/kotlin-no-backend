@@ -18,6 +18,7 @@ Aqui você vai encontrar as empresas que estão utilizando [Kotlin](https://kotl
 - [PayGo](https://paygo.gupy.io/) - 🛠
 - [Beleza na Web](https://www.glassdoor.com.br/Vagas/Beleza-na-Web-Vagas-E1630661.htm) - 🚀 
 - [Mercado Livre](https://jobs.mercadolibre.com/?locale=pt_BR) - 🛠
+- [Valemobi](https://valemobi.gupy.io/) - 🚀
 
 #### Campinas / SP
 - [iFood](https://institucional.ifood.com.br/carreiras?) - 🚀 
