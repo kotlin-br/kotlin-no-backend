@@ -20,6 +20,7 @@ Aqui você vai encontrar as empresas que estão utilizando [Kotlin](https://kotl
 - [Mercado Livre](https://jobs.mercadolibre.com/?locale=pt_BR) - 🛠
 - [Valemobi](https://valemobi.gupy.io/) - 🚀
 
+
 #### Campinas / SP
 - [iFood](https://institucional.ifood.com.br/carreiras?) - 🚀 
 
