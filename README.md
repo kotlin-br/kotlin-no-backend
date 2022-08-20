@@ -30,3 +30,4 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Solutis](https://solutis.com.br)                             |                                                                         | [Clique aqui](https://solutis.gupy.io)                                         |
 | [Bemobi](https://www.bemobi.com.br)                           |                                                                         | [Clique aqui](https://bemobi.gupy.io)                                          |
 | [Riocard](https://www.cartaoriocard.com.br/rcc/institucional) |                                                                         | [Clique aqui](https://trabalheconosco.vagas.com.br/riocard-mais/oportunidades) |
+| [BoaCompra by PagSeguro](https://boacompra.com)               |                                                                         | [Clique aqui](https://pagseguro.gupy.io)                                       |
