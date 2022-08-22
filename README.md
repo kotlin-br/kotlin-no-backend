@@ -32,3 +32,4 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Riocard](https://www.cartaoriocard.com.br/rcc/institucional) |                                                                         | [Clique aqui](https://trabalheconosco.vagas.com.br/riocard-mais/oportunidades) |
 | [BoaCompra by PagSeguro](https://boacompra.com)               |                                                                         | [Clique aqui](https://pagseguro.gupy.io)                                       |
 | [Gympass](https://site.gympass.com/br/companies)              | [Clique aqui](https://stackshare.io/gympass/gympass)                    | [Clique aqui](https://site.gympass.com/careers)                                |
+| [Digital Republic](https://www.digitalrepublic.com.br)        |                                                                         | [Clique aqui](https://jobs.quickin.io/digitalrepublic)                         |
