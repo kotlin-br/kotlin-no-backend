@@ -33,3 +33,4 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [BoaCompra by PagSeguro](https://boacompra.com)               |                                                                         | [Clique aqui](https://pagseguro.gupy.io)                                       |
 | [Gympass](https://site.gympass.com/br/companies)              | [Clique aqui](https://stackshare.io/gympass/gympass)                    | [Clique aqui](https://site.gympass.com/careers)                                |
 | [Digital Republic](https://www.digitalrepublic.com.br)        |                                                                         | [Clique aqui](https://jobs.quickin.io/digitalrepublic)                         |
+| [Ebanx](https://www.ebanx.com/br)                             | [Clique aqui](https://stackshare.io/ebanx/ebanx)                        | [Clique aqui](https://boards.greenhouse.io/ebanx)                              |
