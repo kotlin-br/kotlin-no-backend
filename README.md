@@ -5,7 +5,7 @@
     <h3 align="center">Empresas que utilizam Kotlin no Brasil</h3>
 </header>
 
-# Introdução
+# Overview
 
 Este repositório tem o intuito de listar o nome de empresas que trabalham com [Kotlin](https://kotlinlang.org) em seus
 projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e link de acesso às vagas.
@@ -35,3 +35,13 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Digital Republic](https://www.digitalrepublic.com.br)        |                                                                         | [Clique aqui](https://jobs.quickin.io/digitalrepublic)                         |
 | [Ebanx](https://www.ebanx.com/br)                             | [Clique aqui](https://stackshare.io/ebanx/ebanx)                        | [Clique aqui](https://boards.greenhouse.io/ebanx)                              |
 | [Mesa](https://www.mesainc.com.br)                            |                                                                         | [Clique aqui](https://www.mesainc.com.br/careers)                              |
+
+## Licença
+
+Licenciado sob [MIT](/LICENSE).
+
+<div id='contributing'></div>
+
+## Contribuindo
+
+Siga as [diretrizes de contribuição](CONTRIBUTING.md) para contribuir com o projeto.
