@@ -35,6 +35,7 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Digital Republic](https://www.digitalrepublic.com.br)        |                                                                         | [Clique aqui](https://jobs.quickin.io/digitalrepublic)                         |
 | [Ebanx](https://www.ebanx.com/br)                             | [Clique aqui](https://stackshare.io/ebanx/ebanx)                        | [Clique aqui](https://boards.greenhouse.io/ebanx)                              |
 | [Mesa](https://www.mesainc.com.br)                            |                                                                         | [Clique aqui](https://www.mesainc.com.br/careers)                              |
+| [Zoop](https://zoop.com.br)                                   |                                                                         | [Clique aqui](https://zoop.com.br/vagas)                                       |
 
 ## Licença
 
