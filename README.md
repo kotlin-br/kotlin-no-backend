@@ -37,6 +37,7 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Mesa](https://www.mesainc.com.br)                            |                                                                         | [Clique aqui](https://www.mesainc.com.br/careers)                              |
 | [Zoop](https://zoop.com.br)                                   |                                                                         | [Clique aqui](https://zoop.com.br/vagas)                                       |
 | [Banco Original](https://www.original.com.br)                 |                                                                         | [Clique aqui](https://somosoriginal.gupy.io)                                   |
+| [DOMVS iT](https://domvsit.com.br)                            |                                                                         | [Clique aqui](https://domvsserviceit.compleo.com.br)                           |
 
 ## Licença
 
