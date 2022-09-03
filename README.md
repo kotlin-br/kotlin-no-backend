@@ -1,6 +1,8 @@
+<!--suppress HtmlDeprecatedAttribute -->
+
 <header>
-    <p align="center">
-        <img width="280" src="doc/images/Kotlin-logo.png" alt="Kotlin logo" />
+<p align="center">
+        <img width="280" src="doc/images/kotlin-logo.svg" alt="Kotlin logo" />
     </p>
     <h3 align="center">Empresas que utilizam Kotlin no Brasil</h3>
 </header>
