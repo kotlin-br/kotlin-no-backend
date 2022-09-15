@@ -40,10 +40,11 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Zoop](https://zoop.com.br)                                   |                                                                         | [Clique aqui](https://zoop.com.br/vagas)                                       |
 | [Banco Original](https://www.original.com.br)                 |                                                                         | [Clique aqui](https://somosoriginal.gupy.io)                                   |
 | [DOMVS iT](https://domvsit.com.br)                            |                                                                         | [Clique aqui](https://domvsserviceit.compleo.com.br)                           |
+| [Sidia](https://sidia.com)                                    |                                                                         | [Clique aqui](https://sidia.com/carreiras)                                     |
 
 ## Licença
 
-Licenciado sob [MIT](/LICENSE).
+Licenciado sob [MIT](LICENSE).
 
 <div id='contributing'></div>
 
