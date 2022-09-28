@@ -41,6 +41,7 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Banco Original](https://www.original.com.br)                 |                                                                         | [Clique aqui](https://somosoriginal.gupy.io)                                   |
 | [DOMVS iT](https://domvsit.com.br)                            |                                                                         | [Clique aqui](https://domvsserviceit.compleo.com.br)                           |
 | [Sidia](https://sidia.com)                                    |                                                                         | [Clique aqui](https://sidia.com/carreiras)                                     |
+| [Grupo Boticário](https://www.grupoboticario.com.br)          | [Clique aqui](https://stackshare.io/grupo-boticario/grupo-boticario)    | [Clique aqui](https://www.grupoboticario.com.br/carreiras)                     |
 
 ## Licença
 
