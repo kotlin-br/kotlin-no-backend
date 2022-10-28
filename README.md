@@ -43,6 +43,8 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Sidia](https://sidia.com)                                    |                                                                         | [Clique aqui](https://sidia.com/carreiras)                                     |
 | [Grupo Boticário](https://www.grupoboticario.com.br)          | [Clique aqui](https://stackshare.io/grupo-boticario/grupo-boticario)    | [Clique aqui](https://www.grupoboticario.com.br/carreiras)                     |
 | [ClickBus](https://www.clickbus.com.br/)          |                                                                                | [Clique aqui](https://clickbus.gupy.io/)                     |
+| [Gabriel](https://www.gabriel.com.br/)          |                                                                                | [Clique aqui](https://www.gabriel.com.br/carreiras)                     |
+
 
 ## Licença
 
