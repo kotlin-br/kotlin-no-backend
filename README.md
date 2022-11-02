@@ -42,6 +42,10 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [DOMVS iT](https://domvsit.com.br)                            |                                                                         | [Clique aqui](https://domvsserviceit.compleo.com.br)                           |
 | [Sidia](https://sidia.com)                                    |                                                                         | [Clique aqui](https://sidia.com/carreiras)                                     |
 | [Grupo Boticário](https://www.grupoboticario.com.br)          | [Clique aqui](https://stackshare.io/grupo-boticario/grupo-boticario)    | [Clique aqui](https://www.grupoboticario.com.br/carreiras)                     |
+| [ClickBus](https://www.clickbus.com.br/)          |                                                                                | [Clique aqui](https://clickbus.gupy.io/)                     |
+| [Gabriel](https://www.gabriel.com.br/)          |                                                                                | [Clique aqui](https://www.gabriel.com.br/carreiras)                     |
+| [PicPay](https://www.picpay.com/)          |                                                                                | [Clique aqui](https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas)                     |
+
 | [Garupa](https://garupa.co)                                   |                                                                         | [Clique aqui](https://garupa.solides.jobs)                                     |
 
 <div id='license'></div>
