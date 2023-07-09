@@ -2,7 +2,7 @@
 
 <header>
 <p align="center">
-        <img width="280" src="doc/images/kotlin-logo.svg" alt="Kotlin logo" />
+        <img width="100" src="doc/images/kotlin-logo.svg" alt="Kotlin logo" />
     </p>
     <h3 align="center">Empresas que utilizam Kotlin no Brasil</h3>
 </header>
