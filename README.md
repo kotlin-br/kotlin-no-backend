@@ -2,7 +2,7 @@
 
 <header>
 <p align="center">
-        <img width="280" src="doc/images/kotlin-logo.svg" alt="Kotlin logo" />
+        <img width="100" src="doc/images/kotlin-logo.svg" alt="Kotlin logo" />
     </p>
     <h3 align="center">Empresas que utilizam Kotlin no Brasil</h3>
 </header>
@@ -38,12 +38,9 @@ projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e 
 | [Ebanx](https://www.ebanx.com/br)                             | [Clique aqui](https://stackshare.io/ebanx/ebanx)                        | [Clique aqui](https://boards.greenhouse.io/ebanx)                                       |
 | [Mesa](https://www.mesainc.com.br)                            |                                                                         | [Clique aqui](https://www.mesainc.com.br/careers)                                       |
 | [Zoop](https://zoop.com.br)                                   |                                                                         | [Clique aqui](https://zoop.com.br/vagas)                                                |
-| [Banco Original](https://www.original.com.br)                 |                                                                         | [Clique aqui](https://somosoriginal.gupy.io)                                            |
-| [DOMVS iT](https://domvsit.com.br)                            |                                                                         | [Clique aqui](https://domvsserviceit.compleo.com.br)                                    |
 | [Sidia](https://sidia.com)                                    |                                                                         | [Clique aqui](https://sidia.com/carreiras)                                              |
 | [Grupo Boticário](https://www.grupoboticario.com.br)          | [Clique aqui](https://stackshare.io/grupo-boticario/grupo-boticario)    | [Clique aqui](https://www.grupoboticario.com.br/carreiras)                              |
-| [ClickBus](https://www.clickbus.com.br)                       |                                                                         | [Clique aqui](https://clickbus.gupy.io)                                                 |
-| [Gabriel](https://www.gabriel.com.br)                         |                                                                         | [Clique aqui](https://www.gabriel.com.br/carreiras)                                     |
+| [ClickBus](https://www.clickbus.com.br)                       |                                                                         | [Clique aqui](https://www.inhire.com.br/clickbus)                                       |
 | [PicPay](https://www.picpay.com)                              |                                                                         | [Clique aqui](https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas) |
 | [Garupa](https://garupa.co)                                   |                                                                         | [Clique aqui](https://garupa.solides.jobs)                                              |
 
