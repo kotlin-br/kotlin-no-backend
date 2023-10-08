@@ -10,7 +10,7 @@
 # Overview
 
 Este repositório tem o intuito de listar o nome de empresas que trabalham com [Kotlin](https://kotlinlang.org) em seus
-projetos. Adicione o link para [Stackshare](https://stackshare.io) se houver, e link de acesso às vagas.
+projetos. Adicione o link para [StackShare](https://stackshare.io) se houver, e link de acesso às vagas.
 
 # Empresas
 
