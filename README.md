@@ -16,7 +16,7 @@ projetos. Adicione o link para [StackShare](https://stackshare.io) se houver, e 
 
 | Nome                                                          | Stackshare                                                              | Link de vagas                                                                           |
 |---------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| [AME Digital](https://www.amedigital.com)                     |                                                                         | [Clique aqui](https://boards.greenhouse.io/amedigital)                                  |
+| [AME Digital](https://www.amedigital.com)                     |                                                                         | [Clique aqui](https://www.amedigital.com/sobre)                                         |
 | [C6 Bank](https://www.c6bank.com.br)                          |                                                                         | [Clique aqui](https://boards.greenhouse.io/c6bank)                                      |
 | [BTG Pactual Digital](https://www.btgpactual.com)             |                                                                         | [Clique aqui](https://www.btgpactual.com/pessoas/oportunidades-tech)                    |
 | [Creditas](https://www.creditas.com)                          |                                                                         | [Clique aqui](https://boards.greenhouse.io/creditas)                                    |
