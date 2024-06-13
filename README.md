@@ -14,7 +14,7 @@ projetos. Adicione o link para [StackShare](https://stackshare.io) se houver, e 
 
 # Empresas
 
-| Nome                                                          | Stackshare                                                              | Link de vagas                                                                           |
+| Nome                                                          | StackShare                                                              | Link de vagas                                                                           |
 |---------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AME Digital](https://www.amedigital.com)                     |                                                                         | [Clique aqui](https://www.amedigital.com/sobre)                                         |
 | [C6 Bank](https://www.c6bank.com.br)                          |                                                                         | [Clique aqui](https://boards.greenhouse.io/c6bank)                                      |
