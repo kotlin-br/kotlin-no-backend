@@ -2,6 +2,7 @@ name: Validate links
 
 on:
   pull_request: null
+  workflow_dispatch:
   schedule:
     - cron: 0 0 * * 0
 
